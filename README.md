@@ -3,8 +3,8 @@
 I have...
 
 * Participated in regional, national, and international conference presentations
-* 12+ publications, including AI and digital pathology research
-* Co-authored guidelines for Cytology and Digital Pathology in Spain
+* 12+ publications, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and digital pathology research
+* Co-authored guidelines for [cytology](http://webs.academia.cat/societats/citopato/docs/guiacalidad.pdf) and [digital pathology](http://webs.academia.cat/societats/citopato/docs/guiacalidad.pdf) in Spain
 
 You can find me on:
 
