@@ -11,3 +11,9 @@ You can find me on:
 * [LinkedIn](https://www.linkedin.com/in/isi-mube/)
 * [Twitter](https://twitter.com/isi_mube)
 * [ResearchGate](https://www.researchgate.net/profile/Isidre_Munne-Bertran)
+
+You can find me on:
+
+[![LinkedIn](icon_path/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](icon_path/twitter-icon.png)](https://twitter.com/your-twitter-handle)
+[![ResearchGate](icon_path/researchgate-icon.png)](https://www.researchgate.net/profile/your-researchgate-profile)
