@@ -6,11 +6,11 @@ Find me on:
 * [Twitter](https://twitter.com/isi_mube)
 * [ResearchGate](https://www.researchgate.net/profile/Isidre_Munne-Bertran)
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E16AQGHx216QpnCJg/profile-displaybackgroundimage-shrink_350_1400/0/1652818283389?e=1685577600&v=beta&t=cN1vsGXV152IAXT-C-RUzZLl83Si_uv44tA3kmsk9wk" />
-</p>
-
 Also,
 * [Codewars](www.codewars.com/r/wSsB5Q)
 * [Duolingo](https://www.duolingo.com/profile/arattz_)
 * [Random.cytology](https://www.instagram.com/random.cytology/?hl=en)
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C4E16AQGHx216QpnCJg/profile-displaybackgroundimage-shrink_350_1400/0/1652818283389?e=1685577600&v=beta&t=cN1vsGXV152IAXT-C-RUzZLl83Si_uv44tA3kmsk9wk" />
+</p>
