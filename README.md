@@ -1,4 +1,6 @@
-<img align="center" src="https://media.licdn.com/dms/image/C4E16AQGHx216QpnCJg/profile-displaybackgroundimage-shrink_350_1400/0/1652818283389?e=1685577600&v=beta&t=cN1vsGXV152IAXT-C-RUzZLl83Si_uv44tA3kmsk9wk">
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C4E16AQGHx216QpnCJg/profile-displaybackgroundimage-shrink_350_1400/0/1652818283389?e=1685577600&v=beta&t=cN1vsGXV152IAXT-C-RUzZLl83Si_uv44tA3kmsk9wk" />
+</p>
 
 
 I'm a Cytotechnologist with over 5 years of experience in cytology, anatomical pathology, education & digital pathology. My passion for continuous learning has led me to pursue new skills in Python, SQL, and Machine Learning for data analysis at Ironhack's bootcamp.
