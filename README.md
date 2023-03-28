@@ -9,4 +9,4 @@ Find me on:
 Also,
 * [Codewars](www.codewars.com/r/wSsB5Q)
 * [Duolingo](https://www.duolingo.com/profile/arattz_)
-* [Random.Cytology](https://www.instagram.com/random.cytology/?hl=en)
+* [Random.cytology](https://www.instagram.com/random.cytology/?hl=en)
