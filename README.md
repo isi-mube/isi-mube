@@ -1,4 +1,4 @@
-I'm a Cytotechnologist with over 5 years of experience in cytology, anatomical pathology, education & digital pathology. My passion for continuous learning has led me to pursue new skills in Python, SQL, and Machine Learning for data analysis at Ironhack's bootcamp.
+I'm a Cytotechnologist with over 5 years of experience in cytology, anatomical pathology, education & digital pathology. My motivation for continuous learning has led me to pursue new skills in Python, SQL, and Machine Learning for data analysis at Ironhack's bootcamp.
 
 Find me on:
 
