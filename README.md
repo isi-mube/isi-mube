@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=1000&pause=1000&color=11F2F7&center=true&vCenter=true&multiline=true&width=435&lines=Isidre+Munn%C3%A9-Betran;Data+Scientist-wannabe;Cytotechnologist+%7C+Professor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=1000&multiline=true&width=435&lines=Isidre+Munn%C3%A9-Bertran;Cytotechnologist+%7C+Professor" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://www.linkedin.com/in/isi-mube/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue">
 </a>  
 <a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran">
-    <img src="https://img.shields.io/badge/-ResearchGate-lightgrey">
+    <img src="https://img.shields.io/badge/-ResearchGate-orange">
 </a>  
 <a href="https://twitter.com/isi_mube">
     <img src="https://img.shields.io/badge/-Twitter%20-informational">
