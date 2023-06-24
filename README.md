@@ -17,6 +17,9 @@
 
 💬 I'm a Cytotechnologist with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, and Machine Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on healthcare.
 
+  <p class="justified">&#x1F4AC; I'm a Cytotechnologist with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, and Machine Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on healthcare.</p>
+
+
 Also;
 
 - Co-authored guidelines for Cytology and Digital Pathology in Spain.
