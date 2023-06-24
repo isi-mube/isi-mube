@@ -3,22 +3,20 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/isi-mube/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue">
-</a>  
-<a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran">
-    <img src="https://img.shields.io/badge/-ResearchGate-orange">
+    <img src="[https://img.shields.io/badge/-LinkedIn-blue](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)">
 </a>  
 <a href="https://twitter.com/isi_mube">
-    <img src="https://img.shields.io/badge/-Twitter%20-informational">
+    <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee">
 </a>
 <a href="https://medium.com/@ap.isidre">
-    <img src="https://img.shields.io/badge/-Medium-blueviolet">
+    <img src="https://img.shields.io/badge/-Medium-blueviolet](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
 </a>
-<a href="https://www.instagram.com/random.cytology/">
-    <img src='https://img.shields.io/badge/-Instagram-red'>
-</a>
-  
+
 <br/> 
+
+<br>
+
+
 
 <!-- <a href="https://github.com/isi-mube">
     <img src="https://github-readme-stats.vercel.app/api?username=isi-mube&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
