@@ -19,10 +19,10 @@
 
 Also;
 
-- Co-authored guidelines for Cytology and Digital Pathology in Spain.
-- Published 11+ research articles, including AI and digital pathology topics.
+- Co-authored guidelines for [Cytology](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://webs.academia.cat/societats/citopato/docs/guiacalidad.pdf) and [Digital Pathology](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://webs.academia.cat/societats/citopato/docs/guiacalidad.pdf) in Spain.
+- Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and digital pathology topics.
 - Presented at regional, national, and international conferences.
-- Member of the European Advisory Committee of Cytotechnology.
+- Member of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 
 
-🤝 Let's connect and collaborate !
+🤝 Let's [connect](https://www.linkedin.com/in/isi-mube/) and collaborate !
