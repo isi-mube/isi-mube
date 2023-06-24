@@ -11,7 +11,7 @@
 <a href="https://twitter.com/isi_mube">
     <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee">
 </a>
-<a href="https://twitter.com/isi_mube](https://www.researchgate.net/profile/Isidre_Munne-Bertran">
+<a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran">
     <img src="https://img.shields.io/badge/research-gate-%230077B5.svg?&style=for-the-badge&logo=research-gate&logoColor=white">
 </a>
 
