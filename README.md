@@ -19,7 +19,7 @@
 
 Also;
 
-- Co-authored guidelines for [Cytology](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://webs.academia.cat/societats/citopato/docs/guiacalidad.pdf) and [Digital Pathology](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://webs.academia.cat/societats/citopato/docs/guiacalidad.pdf) in Spain.
+- Co-authored guidelines for [Cytology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) and [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) in Spain.
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and digital pathology topics.
 - Presented at regional, national, and international conferences.
 - Member of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
