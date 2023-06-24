@@ -17,14 +17,6 @@
 
 <br/> 
 
-<br>
-
-
-
-<!-- <a href="https://github.com/isi-mube">
-    <img src="https://github-readme-stats.vercel.app/api?username=isi-mube&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
-
 </p>
 
 💬 I'm a Cytotechnologist with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, and Machine Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on healthcare.
