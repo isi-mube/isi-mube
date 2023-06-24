@@ -3,13 +3,13 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/isi-mube/">
-    <img src="[https://img.shields.io/badge/-LinkedIn-blue](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>  
 <a href="https://twitter.com/isi_mube">
     <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee">
 </a>
 <a href="https://medium.com/@ap.isidre">
-    <img src="https://img.shields.io/badge/-Medium-blueviolet](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
 </a>
 
 <br/> 
