@@ -1,3 +1,6 @@
+![image](https://github.com/isi-mube/isi-mube/assets/90038586/72a1f06a-b33c-4b0b-aa31-264bf9ca8eb0)
+
+
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Isidre+Munn%C3%A9-Bertran;Cytotechnologist+%7C+Professor" alt="Typing SVG" /></a>
 <br/>
