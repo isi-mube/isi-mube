@@ -21,6 +21,10 @@
 
 <p align="justify">&#x1F4AC; I'm a Cytotechnologist with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, and Machine Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on Healthcare.</p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/QdGMRwPz/mid.png">
+</p>
+
 Also;
 
 - Co-authored guidelines for [Cytology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) and [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) in Spain.
