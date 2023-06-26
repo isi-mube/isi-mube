@@ -30,4 +30,4 @@ Also;
 
 Let's [connect](https://www.linkedin.com/in/isi-mube/) & collaborate ! 🤝
 
-![image](https://github.com/isi-mube/isi-mube/assets/90038586/1779c190-607f-4558-88ff-2152135e6e38)
+![image](https://github.com/isi-mube/isi-mube/assets/90038586/1f326eff-7f10-405c-bae4-eb0b9044c49c)
