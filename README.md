@@ -1,4 +1,4 @@
-![image](https://github.com/isi-mube/isi-mube/assets/90038586/b7261350-f664-4f9e-b333-4670ad499d60)
+![image](https://github.com/isi-mube/isi-mube/assets/90038586/8ef5a6d9-a52f-4e32-9e63-f4c31cf543ae)
 
 
 <p align="center">
