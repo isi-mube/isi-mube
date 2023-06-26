@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pasteboard.co/AE5PWQs1a8QZ.png">
+  <img src="https://i.postimg.cc/6Q85Zzxw/Header.png">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <p align="justify">&#x1F4AC; I'm a Cytotechnologist with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, and Machine Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on Healthcare.</p>
 
 <p align="center">
-  <img src="https://pasteboard.co/xsFINR3rrjhR.png](https://pasteboard.co/WYXqzZ04FLYR.png">
+  <img src="https://i.postimg.cc/zBWztBfc/mid.png">
 </p>
 
 Also;
@@ -36,5 +36,5 @@ Also;
 Let's [connect](https://www.linkedin.com/in/isi-mube/) & collaborate ! 🤝
 
 <p align="center">
-  <img src="https://pasteboard.co/xsFINR3rrjhR.png">
+  <img src="https://i.postimg.cc/90hWvhRF/Bottom.png">
 </p>
