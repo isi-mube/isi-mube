@@ -29,7 +29,7 @@ Also;
 - Member of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 
 
-Let's [connect](https://www.linkedin.com/in/isi-mube/) & collaborate ! 🤝
+<p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
 
 <p align="center">
   <img src="https://i.postimg.cc/ncQzSpd7/Bottom.png" width="70%">
