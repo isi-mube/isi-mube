@@ -30,3 +30,7 @@ Also;
 
 
 Let's [connect](https://www.linkedin.com/in/isi-mube/) & collaborate ! 🤝
+
+<p align="center">
+  <img src="https://i.postimg.cc/ncQzSpd7/Bottom.png">
+</p>
