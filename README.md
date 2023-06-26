@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://i.postimg.cc/Qt4twtGg/Header.png" width="70%">
 </p>
-
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Isidre+Munn%C3%A9-Bertran;Cytotechnologist+%7C+Professor" alt="Typing SVG" /></a>
 <br/>
