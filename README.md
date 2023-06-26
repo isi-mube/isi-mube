@@ -1,5 +1,6 @@
-![image](https://github.com/isi-mube/isi-mube/assets/90038586/8ef5a6d9-a52f-4e32-9e63-f4c31cf543ae)
-
+<p align="center">
+  <img src="https://pasteboard.co/AE5PWQs1a8QZ.png">
+</p>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Isidre+Munn%C3%A9-Bertran;Cytotechnologist+%7C+Professor" alt="Typing SVG" /></a>
@@ -20,6 +21,10 @@
 
 <p align="justify">&#x1F4AC; I'm a Cytotechnologist with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, and Machine Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on Healthcare.</p>
 
+<p align="center">
+  <img src="https://pasteboard.co/xsFINR3rrjhR.png](https://pasteboard.co/WYXqzZ04FLYR.png">
+</p>
+
 Also;
 
 - Co-authored guidelines for [Cytology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) and [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) in Spain.
@@ -30,4 +35,6 @@ Also;
 
 Let's [connect](https://www.linkedin.com/in/isi-mube/) & collaborate ! 🤝
 
-![image](https://github.com/isi-mube/isi-mube/assets/90038586/1f326eff-7f10-405c-bae4-eb0b9044c49c)
+<p align="center">
+  <img src="https://pasteboard.co/xsFINR3rrjhR.png">
+</p>
