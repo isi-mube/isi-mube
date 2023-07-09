@@ -26,7 +26,7 @@ Also;
 - Member of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 - Past board-member of the [Spanish Society of Cytology](https://secitologia.org/)
 - Psychology student, 1-year coursed. Unfinished; ongoing. Personal and professional self-development.
-- In love with calisthenics, movement, and sports.
+- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), movement, and sports.
 
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
