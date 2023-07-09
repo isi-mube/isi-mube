@@ -2,6 +2,7 @@
   <img src="https://i.postimg.cc/Qt4twtGg/Header.png" width="63%">
 </p>
 <br/>
+<p align="center">
     <a href="https://www.linkedin.com/in/isi-mube/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>  
