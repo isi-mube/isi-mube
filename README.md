@@ -25,6 +25,7 @@ Also;
 - Presented at regional, national, and international conferences.
 - Member of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 - Past board-member of the [Spanish Society of Cytology](https://secitologia.org/).
+- Cytology Specialist Professor in [Institut La Guineueta](https://www.inslaguineueta.cat/portada/)
 - Psychology student, 1-year coursed. Unfinished; ongoing. Personal and professional self-development.
 - In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), movement, and sports.
 
