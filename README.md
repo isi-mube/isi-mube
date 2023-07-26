@@ -39,11 +39,11 @@ Also;
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/isi-mube/cosmic-compendium">Cosmic Compendium</a></td>
+      <td><a href="https://github.com/isi-mube/cosmic-compendium">cosmic-compendium</a></td>
       <td>Image binary classification to to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/cytology-codex">Cytology Codex</a></td>
+      <td><a href="https://github.com/isi-mube/cytology-codex">cytology-codex</a></td>
       <td>Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
     </tr>
   </tbody>
@@ -58,15 +58,15 @@ Also;
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/isi-mube/mbappe-project">Mbappe Project</a></td>
+      <td><a href="https://github.com/isi-mube/mbappe-project">mbappe-project</a></td>
       <td>To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/movie-rent-predictor">Movie Rent Predictor</a></td>
+      <td><a href="https://github.com/isi-mube/movie-rent-predictor">movie-rent-predictor</a></td>
       <td>To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/patent-pending">Patent Pending</a></td>
+      <td><a href="https://github.com/isi-mube/patent-pending">patent-pending</a></td>
       <td>To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.</td>
     </tr>
   </tbody>
@@ -81,11 +81,11 @@ Also;
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/isi-mube/tailor-s-drawer">Tailor's Drawer</a></td>
+      <td><a href="https://github.com/isi-mube/tailor-s-drawer">tailor-s-drawer</a></td>
       <td>A messy repo. It may contain useful functions, libraries, templates, functions, guides...</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/iron-labs">Iron Labs</a></td>
+      <td><a href="https://github.com/isi-mube/iron-labs">iron-labs</a></td>
       <td>A repo to store and share solved data analytics assignments and side projects.</td>
     </tr>
   </tbody>
