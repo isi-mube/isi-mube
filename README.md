@@ -33,7 +33,7 @@ Also;
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Computer Vision Projects</th>
+      <th scope="col">🥽 CV Projects</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
