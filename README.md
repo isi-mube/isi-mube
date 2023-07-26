@@ -52,7 +52,7 @@ Also;
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">💻 Data Practices</th>
+      <th scope="col">💻 Other Data Projects</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
