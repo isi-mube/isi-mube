@@ -29,6 +29,64 @@ Also;
 - Psychology student, 1-year coursed. Unfinished; ongoing. Personal and professional self-development.
 - In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), movement, and sports.
 
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Project Name</th>
+      <th scope="col">Link</th>
+      <th scope="col">Description</th>
+      <th scope="col">Topic/Main Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tailor's Drawer</td>
+      <td><a href="https://github.com/isi-mube/tailor-s-drawer">Repo Link</a></td>
+      <td>A messy repo. It may contain useful functions, libraries, templates, functions, guides...</td>
+      <td>Misc</td>
+    </tr>
+    <tr>
+      <td>Iron Labs</td>
+      <td><a href="https://github.com/isi-mube/iron-labs">Repo Link</a></td>
+      <td>A repo to store and share solved data analytics assignments and side projects.</td>
+      <td>Data Analytics</td>
+    </tr>
+    <tr>
+      <td>Mbappe Project</td>
+      <td><a href="https://github.com/isi-mube/mbappe-project">Repo Link</a></td>
+      <td>To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.</td>
+      <td>Linear Regression</td>
+    </tr>
+    <tr>
+      <td>Movie Rent Predictor</td>
+      <td><a href="https://github.com/isi-mube/movie-rent-predictor">Repo Link</a></td>
+      <td>To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.</td>
+      <td>Logistic Regression</td>
+    </tr>
+    <tr>
+      <td>Patent Pending</td>
+      <td><a href="https://github.com/isi-mube/patent-pending">Repo Link</a></td>
+      <td>To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.</td>
+      <td>Linear Regression</td>
+    </tr>
+    <tr>
+      <td>Cosmic Compendium</td>
+      <td><a href="https://github.com/isi-mube/cosmic-compendium">Repo Link</a></td>
+      <td>Computer Vision project to recognize galaxies; either spiral or not. Also, image binary classification with TensorFlow & Keras practice.</td>
+      <td>Computer Vision (TensorFlow & Keras)</td>
+    </tr>
+    <tr>
+      <td>Cytology Codex</td>
+      <td><a href="https://github.com/isi-mube/cytology-codex">Repo Link</a></td>
+      <td>Computer Vision application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
+      <td>Computer Vision</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
 
 <p align="center">
