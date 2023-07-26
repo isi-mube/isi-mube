@@ -16,7 +16,7 @@
     </a>
 </p>
 
-<p align="justify">&#x1F4AC; Cytotechnologist with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, Machine and Deep Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on Healthcare.</p>
+<p align="justify">&#x1F4AC; Cytotechnologist and Professor with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, Machine and Deep Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on Healthcare.</p>
 
 Also;
 
@@ -25,7 +25,6 @@ Also;
 - Presented at regional, national, and international conferences.
 - Member of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 - Past board-member of the [Spanish Society of Cytology](https://secitologia.org/).
-- Cytology Specialist Professor in [Institut La Guineueta](https://www.inslaguineueta.cat/portada/).
 - Psychology student, 1-year coursed. Unfinished; ongoing. Personal and professional self-development.
 - In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), movement, and sports.
 
@@ -34,23 +33,21 @@ Also;
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Project Name</th>
+      <th scope="col">Computer Vision Projects</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/isi-mube/cosmic-compendium">Cosmic Compendium</a></td>
-      <td>Computer Vision project to recognize galaxies; either spiral or not. Also, image binary classification with TensorFlow & Keras practice.</td>
+      <td>Image binary classification to to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/isi-mube/cytology-codex">Cytology Codex</a></td>
-      <td>Computer Vision application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
+      <td>Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
     </tr>
   </tbody>
 </table>
-
-
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
 
