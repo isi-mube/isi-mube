@@ -49,6 +49,50 @@ Also;
   </tbody>
 </table>
 
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">📚 Random Repos</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/isi-mube/tailor-s-drawer">Tailor's Drawer</a></td>
+      <td>A messy repo. It may contain useful functions, libraries, templates, functions, guides...</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isi-mube/iron-labs">Iron Labs</a></td>
+      <td>A repo to store and share solved data analytics assignments and side projects.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">💻 Data Practices</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/isi-mube/mbappe-project">Mbappe Project</a></td>
+      <td>To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isi-mube/movie-rent-predictor">Movie Rent Predictor</a></td>
+      <td>To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isi-mube/patent-pending">Patent Pending</a></td>
+      <td>To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
 
 <p align="center">
