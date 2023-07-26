@@ -32,18 +32,17 @@ Also;
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-<h3 align="center">🥽 CV Projects</h3>
-<table class="table table-striped" style="width: 63%; margin-left: auto; margin-right: auto;">
+<table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Project Name</th>
+      <th scope="col">🥽 CV Projects</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/isi-mube/cosmic-compendium">Cosmic Compendium</a></td>
-      <td>Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
+      <td>Image binary classification to to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/isi-mube/cytology-codex">Cytology Codex</a></td>
@@ -52,31 +51,10 @@ Also;
   </tbody>
 </table>
 
-<h3 align="center">📚 Random Repos</h3>
-<table class="table table-striped" style="width: 63%; margin-left: auto; margin-right: auto;">
+<table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">Project Name</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/isi-mube/tailor-s-drawer">Tailor's Drawer</a></td>
-      <td>A messy repo. It may contain useful functions, libraries, templates, functions, guides...</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/isi-mube/iron-labs">Iron Labs</a></td>
-      <td>A repo to store and share solved data analytics assignments and side projects.</td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 align="center">💻 Data Practices</h3>
-<table class="table table-striped" style="width: 63%; margin-left: auto; margin-right: auto;">
-  <thead>
-    <tr>
-      <th scope="col">Project Name</th>
+      <th scope="col">💻 Data Practices</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
@@ -96,6 +74,24 @@ Also;
   </tbody>
 </table>
 
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">📚 Random Repos</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/isi-mube/tailor-s-drawer">Tailor's Drawer</a></td>
+      <td>A messy repo. It may contain useful functions, libraries, templates, functions, guides...</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isi-mube/iron-labs">Iron Labs</a></td>
+      <td>A repo to store and share solved data analytics assignments and side projects.</td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
 
