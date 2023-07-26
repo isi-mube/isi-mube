@@ -35,48 +35,21 @@ Also;
   <thead>
     <tr>
       <th scope="col">Project Name</th>
-      <th scope="col">Link</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Tailor's Drawer</td>
-      <td><a href="https://github.com/isi-mube/tailor-s-drawer">[click me!]</a></td>
-      <td>A messy repo. It may contain useful functions, libraries, templates, functions, guides...</td>
-    </tr>
-    <tr>
-      <td>Iron Labs</td>
-      <td><a href="https://github.com/isi-mube/iron-labs">[click me!]</a></td>
-      <td>A repo to store and share solved data analytics assignments and side projects.</td>
-    </tr>
-    <tr>
-      <td>Mbappe Project</td>
-      <td><a href="https://github.com/isi-mube/mbappe-project">[click me!]</a></td>
-      <td>To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.</td>
-    </tr>
-    <tr>
-      <td>Movie Rent Predictor</td>
-      <td><a href="https://github.com/isi-mube/movie-rent-predictor">[click me!]</a></td>
-      <td>To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.</td>
-    </tr>
-    <tr>
-      <td>Patent Pending</td>
-      <td><a href="https://github.com/isi-mube/patent-pending">[click me!]</a></td>
-      <td>To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.</td>
-    </tr>
-    <tr>
-      <td>Cosmic Compendium</td>
-      <td><a href="https://github.com/isi-mube/cosmic-compendium">[click me!]</a></td>
+      <td><a href="https://github.com/isi-mube/cosmic-compendium">Cosmic Compendium</a></td>
       <td>Computer Vision project to recognize galaxies; either spiral or not. Also, image binary classification with TensorFlow & Keras practice.</td>
     </tr>
     <tr>
-      <td>Cytology Codex</td>
-      <td><a href="https://github.com/isi-mube/cytology-codex">[click me!]</a></td>
+      <td><a href="https://github.com/isi-mube/cytology-codex">Cytology Codex</a></td>
       <td>Computer Vision application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
