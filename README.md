@@ -16,7 +16,7 @@
     </a>
 </p>
 
-<p align="justify">&#x1F4AC; Cytotechnologist and Professor with over 5 years of experience in Cytology, Education & Digital Pathology. My motivation for continuous learning has led me to pursue new skills in Python, Machine and Deep Learning for Data Analysis at Ironhack's bootcamp, currently focusing on Computer Vision to make a positive impact on Healthcare.</p>
+<p align="justify">&#x1F4AC; Data Scientist with over 5 years of experience in Cytology (as cytotechnologist), Education (as professor and advocate) & Digital Pathology (as Specialist). My motivation for continuous learning led me to acquire new skills in Python, Machine learning, and Deep Learning for data analysis, currently focusing on Computer Vision to make a positive impact on Healthcare.</p>
 
 Also;
 
