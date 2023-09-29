@@ -31,23 +31,23 @@ Also;
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">🥽 CV Projects</th>
+      <th scope="col">🥽 Computer Vision</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/isi-mube/cosmic-compendium">cosmic-compendium</a></td>
+      <td><a href="https://github.com/isi-mube/cosmic-compendium">Binary-Classification: cosmic-compendium</a></td>
       <td>Image binary classification to to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/cytology-codex">cytology-codex</a></td>
+      <td><a href="https://github.com/isi-mube/cytology-codex">Multiple-Classification: cytology-codex</a></td>
       <td>Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
     </tr>
     <tr>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/Tech-Test-ML-Hand">Tech-Test-ML-Hand</a></td>
+      <td><a href="https://github.com/isi-mube/Tech-Test-ML-Hand">Image-Segmentation: Tech-Test-ML-Hand</a></td>
       <td>Image hand segmentation using Keras; AItaca tech-test.</td>
     </tr>
     <tr>
