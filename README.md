@@ -38,7 +38,7 @@ Also;
   <tbody>
     <tr>
       <td><a href="https://github.com/isi-mube/cosmic-compendium">Binary-Classification: cosmic-compendium</a></td>
-      <td>Image binary classification to to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
+      <td>Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/isi-mube/cytology-codex">Multiple-Classification: cytology-codex</a></td>
