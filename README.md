@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://i.postimg.cc/Qt4twtGg/Header.png" width="63%">
-</p>
 <p align="center">
     <a href="https://www.linkedin.com/in/isi-mube/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
@@ -46,27 +44,34 @@ Also;
       <td><a href="https://github.com/isi-mube/cytology-codex">cytology-codex</a></td>
       <td>Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
     </tr>
+    <tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/isi-mube/Tech-Test-ML-Hand">Tech-Test-ML-Hand</a></td>
+      <td>Image hand segmentation using Keras; AItaca tech-test.</td>
+    </tr>
+    <tr>
   </tbody>
 </table>
 
 <table class="table table-striped">
   <thead>
     <tr>
-      <th scope="col">💻 Other Projects</th>
+      <th scope="col">💻 Machine Learning</th>
       <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/isi-mube/mbappe-project">mbappe-project</a></td>
+      <td><a href="https://github.com/isi-mube/mbappe-project">Linear Regression: mbappe-project</a></td>
       <td>To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/movie-rent-predictor">movie-rent-predictor</a></td>
+      <td><a href="https://github.com/isi-mube/movie-rent-predictor">Logistic Regression: movie-rent-predictor</a></td>
       <td>To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/isi-mube/patent-pending">patent-pending</a></td>
+      <td><a href="https://github.com/isi-mube/patent-pending">Linear Regression: patent-pending</a></td>
       <td>To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.</td>
     </tr>
   </tbody>
@@ -92,7 +97,3 @@ Also;
 </table>
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/ncQzSpd7/Bottom.png" width="63%">
-</p>
