@@ -28,18 +28,17 @@ Also;
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-## 🥽 Computer Vision
+## Projects
+### 🥽 Computer Vision
 
 - **Binary-Image Classification:**
   - [Cosmic-compendium](https://github.com/isi-mube/cosmic-compendium): Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.
-  
 - **Multiple-Classification:**
   - [Cytology-codex](https://github.com/isi-mube/cytology-codex): Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.
-  
 - **Image Segmentation:**
   - [Tech-Test-ML-Hand](https://github.com/isi-mube/Tech-Test-ML-Hand): Image hand segmentation using Keras; AItaca tech-test.
 
-## 💻 Machine Learning
+### 💻 Machine Learning
 
 - **Linear Regression:**
   - [Mbappe-project](https://github.com/isi-mube/mbappe-project): To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.
