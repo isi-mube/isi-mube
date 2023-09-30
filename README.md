@@ -40,7 +40,6 @@ Also;
   - [Tech-Test-ML-Hand](https://github.com/isi-mube/Tech-Test-ML-Hand): Image hand segmentation using Keras; AItaca tech-test.
 
 ### 💻 Machine Learning
-
 - **Linear Regression:**
   - [Mbappe-project](https://github.com/isi-mube/mbappe-project): To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.
   - [Patent-pending](https://github.com/isi-mube/patent-pending): To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.
@@ -49,7 +48,6 @@ Also;
   - [Movie-rent-predictor](https://github.com/isi-mube/movie-rent-predictor): To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.
 
 ### 📚 Random Repos
-
 - [Tailor-s-drawer](https://github.com/isi-mube/tailor-s-drawer): A messy repo. It may contain useful functions, libraries, templates, functions, guides...
 - [Iron-labs](https://github.com/isi-mube/iron-labs): A repo to store and share solved data analytics assignments and side projects.
 
