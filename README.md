@@ -48,7 +48,7 @@ Also;
 - **Logistic Regression:**
   - [Movie-rent-predictor](https://github.com/isi-mube/movie-rent-predictor): To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.
 
-## 📚 Random Repos
+### 📚 Random Repos
 
 - [Tailor-s-drawer](https://github.com/isi-mube/tailor-s-drawer): A messy repo. It may contain useful functions, libraries, templates, functions, guides...
 - [Iron-labs](https://github.com/isi-mube/iron-labs): A repo to store and share solved data analytics assignments and side projects.
