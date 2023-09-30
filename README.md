@@ -28,72 +28,30 @@ Also;
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th scope="col">🥽 Computer Vision</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/isi-mube/cosmic-compendium">Binary-Classification: cosmic-compendium</a></td>
-      <td>Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/isi-mube/cytology-codex">Multiple-Classification: cytology-codex</a></td>
-      <td>Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.</td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/isi-mube/Tech-Test-ML-Hand">Image-Segmentation: Tech-Test-ML-Hand</a></td>
-      <td>Image hand segmentation using Keras; AItaca tech-test.</td>
-    </tr>
-    <tr>
-  </tbody>
-</table>
+## 🥽 Computer Vision
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th scope="col">💻 Machine Learning</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/isi-mube/mbappe-project">Linear Regression: mbappe-project</a></td>
-      <td>To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/isi-mube/movie-rent-predictor">Logistic Regression: movie-rent-predictor</a></td>
-      <td>To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/isi-mube/patent-pending">Linear Regression: patent-pending</a></td>
-      <td>To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.</td>
-    </tr>
-  </tbody>
-</table>
+- **Binary-Image Classification:**
+  - [Cosmic-compendium](https://github.com/isi-mube/cosmic-compendium): Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.
+  
+- **Multiple-Classification:**
+  - [Cytology-codex](https://github.com/isi-mube/cytology-codex): Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.
+  
+- **Image Segmentation:**
+  - [Tech-Test-ML-Hand](https://github.com/isi-mube/Tech-Test-ML-Hand): Image hand segmentation using Keras; AItaca tech-test.
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th scope="col">📚 Random Repos</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/isi-mube/tailor-s-drawer">tailor-s-drawer</a></td>
-      <td>A messy repo. It may contain useful functions, libraries, templates, functions, guides...</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/isi-mube/iron-labs">iron-labs</a></td>
-      <td>A repo to store and share solved data analytics assignments and side projects.</td>
-    </tr>
-  </tbody>
-</table>
+## 💻 Machine Learning
+
+- **Linear Regression:**
+  - [Mbappe-project](https://github.com/isi-mube/mbappe-project): To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.
+  - [Patent-pending](https://github.com/isi-mube/patent-pending): To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.
+
+- **Logistic Regression:**
+  - [Movie-rent-predictor](https://github.com/isi-mube/movie-rent-predictor): To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.
+
+## 📚 Random Repos
+
+- [Tailor-s-drawer](https://github.com/isi-mube/tailor-s-drawer): A messy repo. It may contain useful functions, libraries, templates, functions, guides...
+- [Iron-labs](https://github.com/isi-mube/iron-labs): A repo to store and share solved data analytics assignments and side projects.
+
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
