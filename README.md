@@ -33,16 +33,16 @@ Also;
 ### 🥽 Computer Vision - Deep Learning
 
 - **Binary-Image Classification:**
-  - [Cosmic-compendium](https://github.com/isi-mube/cosmic-compendium): Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.
+  - [cosmic-compendium](https://github.com/isi-mube/cosmic-compendium): Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.
 - **Multiple-Classification:**
-  - [Cytology-codex](https://github.com/isi-mube/cytology-codex): Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.
+  - [cytology-codex](https://github.com/isi-mube/cytology-codex): Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.
 - **Image Segmentation:**
   - [Tech-Test-ML-Hand](https://github.com/isi-mube/Tech-Test-ML-Hand): Image hand segmentation using Keras; AItaca tech-test.
 
 ### 💻 Machine Learning
 - **Linear Regression:**
-  - [Mbappe-project](https://github.com/isi-mube/mbappe-project): To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.
-  - [Patent-pending](https://github.com/isi-mube/patent-pending): To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.
+  - [mbappe-project](https://github.com/isi-mube/mbappe-project): To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.
+  - [patent-pending](https://github.com/isi-mube/patent-pending): To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.
 
 - **Logistic Regression:**
   - [Movie-rent-predictor](https://github.com/isi-mube/movie-rent-predictor): To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.
