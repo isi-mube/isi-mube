@@ -30,7 +30,7 @@ Also;
 
 ## Projects
 
-### 🥽 Computer Vision
+### 🥽 Computer Vision - Deep Learning
 
 - **Binary-Image Classification:**
   - [Cosmic-compendium](https://github.com/isi-mube/cosmic-compendium): Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.
