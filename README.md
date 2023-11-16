@@ -33,17 +33,17 @@ Also;
 ## Projects
 
 ### 🥽 Computer Vision - Deep Learning
-| Project Type | Project Name | Description | Libraries/Models | Link |
+| Project Type | Project Name | Description | Libraries | Link |
 | ------------ | ------------ | ----------- | ---------------- | ---- |
 | Binary Classification | cosmic-compendium | Image binary classification to recognize galaxies. TensorFlow & Keras practice. | TensorFlow, Keras | [View](https://github.com/isi-mube/cosmic-compendium) |
 | Multi-Class Classification | cytology-codex | Diagnose diverse Cytology samples using medical imaging data. Ironhack's final-bootcamp project. | TensorFlow, Keras | [View](https://github.com/isi-mube/cytology-codex) |
 | Image Segmentation | Tech-Test-ML-Hand | Image hand segmentation using Keras; AItaca tech-test. | Keras | [View](https://github.com/isi-mube/Tech-Test-ML-Hand) |
 
 ### 💻 Machine Learning
-| Project Type | Project Name | Description | Libraries/Models | Link |
+| Project Type | Project Name | Description | Models | Link |
 | ------------ | ------------ | ----------- | ---------------- | ---- |
-| Regression | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | Scikit-Learn, Linear Regression, Lasso, Ridge, ElasticNet | [View](https://github.com/isi-mube/mbappe-project) |
-| Regression | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | Scikit-Learn, SVR, DecisionTreeRegressor, MLPRegressor, KNeighborsRegressor, LinearRegression, ElasticNet, RandomForestRegressor| [View](https://github.com/isi-mube/patent-pending) |
+| Regression | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | Linear Regression, Lasso, Ridge, ElasticNet | [View](https://github.com/isi-mube/mbappe-project) |
+| Regression | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. |SVR, DecisionTreeRegressor, MLPRegressor, KNeighborsRegressor, LinearRegression, ElasticNet, RandomForestRegressor| [View](https://github.com/isi-mube/patent-pending) |
 | Classification | Movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | Scikit-Learn, LogisticRegression | [View](https://github.com/isi-mube/movie-rent-predictor) |
 
 ### 📚 Random Repos
