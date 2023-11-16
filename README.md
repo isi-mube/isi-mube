@@ -31,28 +31,24 @@ Also;
 ## Projects
 
 ### 🥽 Computer Vision - Deep Learning
-| Project Type | Project Name | Description | Link |
-| ------------ | ------------ | ----------- | ---- |
-| Binary Classification | cosmic-compendium | Image binary classification to recognize galaxies. TensorFlow & Keras practice. | [View](https://github.com/isi-mube/cosmic-compendium) |
-| Multi-Class Classification | cytology-codex | Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Ironhack's final-bootcamp project. | [View](https://github.com/isi-mube/cytology-codex) |
-| Image Segmentation | Tech-Test-ML-Hand | Image hand segmentation using Keras; AItaca tech-test. | [View](https://github.com/isi-mube/Tech-Test-ML-Hand) |
+| Project Type | Project Name | Description | Libraries/Models | Link |
+| ------------ | ------------ | ----------- | ---------------- | ---- |
+| Binary Classification | cosmic-compendium | Image binary classification to recognize galaxies. TensorFlow & Keras practice. | TensorFlow, Keras | [View](https://github.com/isi-mube/cosmic-compendium) |
+| Multi-Class Classification | cytology-codex | Diagnose diverse Cytology samples using medical imaging data. Ironhack's final-bootcamp project. | TensorFlow, Keras | [View](https://github.com/isi-mube/cytology-codex) |
+| Image Segmentation | Tech-Test-ML-Hand | Image hand segmentation using Keras; AItaca tech-test. | Keras | [View](https://github.com/isi-mube/Tech-Test-ML-Hand) |
 
-### 💻 Regression Models
-| Project Type | Project Name | Description | Link |
-| ------------ | ------------ | ----------- | ---- |
-| Linear | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | [View](https://github.com/isi-mube/mbappe-project) |
-| Linear | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | [View](https://github.com/isi-mube/patent-pending) |
-
-### 🔍 Logistic Models
-| Project Type | Project Name | Description | Link |
-| ------------ | ------------ | ----------- | ---- |
-| Logistic | Movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | [View](https://github.com/isi-mube/movie-rent-predictor) |
+### 💻 Machine Learning
+| Project Type | Project Name | Description | Libraries/Models | Link |
+| ------------ | ------------ | ----------- | ---------------- | ---- |
+| Linear Regression | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | Scikit-Learn | [View](https://github.com/isi-mube/mbappe-project) |
+| Linear Regression | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | Scikit-Learn | [View](https://github.com/isi-mube/patent-pending) |
+| Logistic Regression | Movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | Scikit-Learn | [View](https://github.com/isi-mube/movie-rent-predictor) |
 
 ### 📚 Random Repos
-| Project Type | Project Name | Description | Link |
-| ------------ | ------------ | ----------- | ---- |
-| Miscellaneous | Tailor-s-drawer | A messy repo with useful functions, libraries, templates, guides... | [View](https://github.com/isi-mube/tailor-s-drawer) |
-| Coursework | Iron-labs | Data analytics assignments and side projects storage. | [View](https://github.com/isi-mube/iron-labs) |
+| Project Type | Project Name | Description | Libraries/Models | Link |
+| ------------ | ------------ | ----------- | ---------------- | ---- |
+| Miscellaneous | Tailor-s-drawer | A messy repo with useful functions, libraries, templates, guides... | Various | [View](https://github.com/isi-mube/tailor-s-drawer) |
+| Coursework | Iron-labs | Data analytics assignments and side projects storage. | Various | [View](https://github.com/isi-mube/iron-labs) |
 
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
