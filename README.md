@@ -44,13 +44,13 @@ Also;
 | ------------ | ------------ | ----------- | ---------------- | ---- |
 | Regression | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | Various, ElasticNet (final) | [View](https://github.com/isi-mube/mbappe-project) |
 | Regression | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | Various, RandomForestRegressor (final) | [View](https://github.com/isi-mube/patent-pending) |
-| Classification | Movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | LogisticRegression | [View](https://github.com/isi-mube/movie-rent-predictor) |
+| Classification | movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | LogisticRegression | [View](https://github.com/isi-mube/movie-rent-predictor) |
 
 ### 📚 Random Repos
 | Project Type | Project Name | Description | Libraries/Models | Link |
 | ------------ | ------------ | ----------- | ---------------- | ---- |
-| Miscellaneous | Tailor-s-drawer | A messy repo with useful functions, libraries, templates, guides... | Various | [View](https://github.com/isi-mube/tailor-s-drawer) |
-| Coursework | Iron-labs | Data analytics assignments and side projects storage. | Various | [View](https://github.com/isi-mube/iron-labs) |
+| Miscellaneous | tailor-s-drawer | A messy repo with useful functions, libraries, templates, guides... | Various | [View](https://github.com/isi-mube/tailor-s-drawer) |
+| Coursework | iron-labs | Data analytics assignments and side projects storage. | Various | [View](https://github.com/isi-mube/iron-labs) |
 
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
