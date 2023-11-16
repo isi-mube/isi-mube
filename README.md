@@ -37,7 +37,7 @@ Also;
 | ------------ | ------------ | ----------- | ---------------- | ---- |
 | Binary Classification | cosmic-compendium | Image binary classification to recognize galaxies. TensorFlow & Keras practice. | TensorFlow, Keras | [View](https://github.com/isi-mube/cosmic-compendium) |
 | Multi-Class Classification | cytology-codex | Diagnose diverse Cytology samples using medical imaging data. Ironhack's final-bootcamp project. | TensorFlow, Keras | [View](https://github.com/isi-mube/cytology-codex) |
-| Image Segmentation | Tech-Test-ML-Hand | Image hand segmentation using Keras; AItaca tech-test. | Keras | [View](https://github.com/isi-mube/Tech-Test-ML-Hand) |
+| Image Segmentation | Tech-Test-ML-Hand | Image hand segmentation using Keras; AItaca tech-test. | TensorFlow, Keras | [View](https://github.com/isi-mube/Tech-Test-ML-Hand) |
 
 ### 💻 Machine Learning
 | Project Type | Project Name | Description | Models | Link |
