@@ -31,25 +31,28 @@ Also;
 ## Projects
 
 ### 🥽 Computer Vision - Deep Learning
-- **Image Clasification:**
-    - **Binary-Image Classification:**
-      - [cosmic-compendium](https://github.com/isi-mube/cosmic-compendium): Image binary classification to recognize galaxies; either spiral or not. Also, TensorFlow & Keras practice.
-    - **Multiple-Classification:**
-      - [cytology-codex](https://github.com/isi-mube/cytology-codex): Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Also, Ironhack's final-bootcamp project.
-- **Image Segmentation:**
-  - [Tech-Test-ML-Hand](https://github.com/isi-mube/Tech-Test-ML-Hand): Image hand segmentation using Keras; AItaca tech-test.
+| Project Type | Project Name | Description | Link |
+| ------------ | ------------ | ----------- | ---- |
+| Binary Classification | cosmic-compendium | Image binary classification to recognize galaxies. TensorFlow & Keras practice. | [View](https://github.com/isi-mube/cosmic-compendium) |
+| Multi-Class Classification | cytology-codex | Application to diagnose diverse Cytology samples using medical imaging Data from a virtual microscope. Ironhack's final-bootcamp project. | [View](https://github.com/isi-mube/cytology-codex) |
+| Image Segmentation | Tech-Test-ML-Hand | Image hand segmentation using Keras; AItaca tech-test. | [View](https://github.com/isi-mube/Tech-Test-ML-Hand) |
 
-### 💻 Machine Learning
-- **Linear Regression:**
-  - [mbappe-project](https://github.com/isi-mube/mbappe-project): To identify young soccer players who possess the potential to become the next Kylian Mbappé. Also, Linear Regression practice.
-  - [patent-pending](https://github.com/isi-mube/patent-pending): To predict selling house prices based on historical data for Ironhack's mid-bootcamp project. Also, Linear Regression practice.
+### 💻 Regression Models
+| Project Type | Project Name | Description | Link |
+| ------------ | ------------ | ----------- | ---- |
+| Linear | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | [View](https://github.com/isi-mube/mbappe-project) |
+| Linear | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | [View](https://github.com/isi-mube/patent-pending) |
 
-- **Logistic Regression:**
-  - [Movie-rent-predictor](https://github.com/isi-mube/movie-rent-predictor): To predict which movies will be rented again based on historical data. Also, Logistic Regression practice.
+### 🔍 Logistic Models
+| Project Type | Project Name | Description | Link |
+| ------------ | ------------ | ----------- | ---- |
+| Logistic | Movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | [View](https://github.com/isi-mube/movie-rent-predictor) |
 
 ### 📚 Random Repos
-- [Tailor-s-drawer](https://github.com/isi-mube/tailor-s-drawer): A messy repo. It may contain useful functions, libraries, templates, functions, guides...
-- [Iron-labs](https://github.com/isi-mube/iron-labs): A repo to store and share solved data analytics assignments and side projects.
+| Project Type | Project Name | Description | Link |
+| ------------ | ------------ | ----------- | ---- |
+| Miscellaneous | Tailor-s-drawer | A messy repo with useful functions, libraries, templates, guides... | [View](https://github.com/isi-mube/tailor-s-drawer) |
+| Coursework | Iron-labs | Data analytics assignments and side projects storage. | [View](https://github.com/isi-mube/iron-labs) |
 
 
 <p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
