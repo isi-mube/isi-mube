@@ -42,9 +42,9 @@ Also;
 ### 💻 Machine Learning
 | Project Type | Project Name | Description | Libraries/Models | Link |
 | ------------ | ------------ | ----------- | ---------------- | ---- |
-| Linear Regression | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | Scikit-Learn | [View](https://github.com/isi-mube/mbappe-project) |
-| Linear Regression | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | Scikit-Learn | [View](https://github.com/isi-mube/patent-pending) |
-| Logistic Regression | Movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | Scikit-Learn | [View](https://github.com/isi-mube/movie-rent-predictor) |
+| Regression | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | Scikit-Learn, Linear Regression, Lasso, Ridge, ElasticNet | [View](https://github.com/isi-mube/mbappe-project) |
+| Regression | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | Scikit-Learn, SVR, DecisionTreeRegressor, MLPRegressor, KNeighborsRegressor, LinearRegression, ElasticNet, RandomForestRegressor| [View](https://github.com/isi-mube/patent-pending) |
+| Classification | Movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | Scikit-Learn, LogisticRegression | [View](https://github.com/isi-mube/movie-rent-predictor) |
 
 ### 📚 Random Repos
 | Project Type | Project Name | Description | Libraries/Models | Link |
