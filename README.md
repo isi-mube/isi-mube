@@ -23,7 +23,7 @@ Also;
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
 - Presented at regional, national, and international conferences.
 - Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/). Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
-- Psychology student, 1-year coursed. Unfinished; ongoing. Personal and professional self-development.
+- Psychology student, 1-year coursed. Personal and professional self-development.
 - In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), movement, fruit and books.
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
