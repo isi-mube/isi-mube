@@ -14,7 +14,7 @@
     </a>
 </p>
 
-I am a **Data Scientist** and **Educator** with over 5 years of experience in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as Specialist). Currently, I am working as **Data Science Lead Teacher**, mentoring future data professionals at [Ironhack](https://www.ironhack.com/us).
+I am a **Data Scientist** and **Educator** with over 5 years of experience in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as Specialist). Currently, Currently working as **Data Science Lead Teacher**, mentoring future data professionals at [Ironhack](https://www.ironhack.com/us).
 
 My commitment to lifelong learning has led me to acquire new skills in Python, Machine learning, and Deep Learning, focusing on **Computer Vision** to make a positive impact on **Healthcare**.
 
