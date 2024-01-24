@@ -14,17 +14,19 @@
     </a>
 </p>
 
-**Data Scientist** with over 5 years of experience in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as Specialist). My motivation for continuous learning led me to acquire new skills in Python, Machine learning, and Deep Learning for data analysis in [Ironhack](https://www.ironhack.com/us), focusing on **Computer Vision** to make a positive impact on Healthcare.
+I am a **Data Scientist** and **Educator** with over 5 years of experience in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as Specialist). Currently, I am working as **Data Science Lead Teacher**, mentoring future data professionals at [Ironhack](https://www.ironhack.com/us).
 
-My final bootcamp project, [cytology-codex](https://github.com/isi-mube/cytology-codex) was showcased in **Ironhack Hackshows** (2023, September) & during the **European Congress of Cytology** in Budapest (2023, October), where it also got **published** in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
+My commitment to lifelong learning has led me to acquire new skills in Python, Machine learning, and Deep Learning, focusing on **Computer Vision** to make a positive impact on **Healthcare**.
+
+One of my recent projects, [cytology-codex](https://github.com/isi-mube/cytology-codex) gained recognition in **Ironhack Hackshows** (2023, September) & during the **European Congress of Cytology** in Budapest (2023, October), where it also got **published** in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 
 Also;
 
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
 - Presented at regional, national, and international conferences.
 - Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/). Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
-- Psychology student, 1-year coursed. Personal and professional self-development.
-- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), movement, fruit and books.
+- Psychology student, 1-year coursed.
+- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), movement, fruit & books.
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
