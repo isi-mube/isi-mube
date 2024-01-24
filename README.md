@@ -16,7 +16,7 @@
 
 I am a **Data Scientist** and **Educator** with over 5 years of experience in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as Specialist). Currently working as **Data Science Lead Teacher**, mentoring future data professionals at [Ironhack](https://www.ironhack.com/us).
 
-My commitment to lifelong learning has led me to acquire new skills in Python, Machine learning, and Deep Learning, focusing on **Computer Vision** to make a positive impact on **Healthcare**.
+My commitment to lifelong learning has led me to acquire new skills in **Python**, **Machine learning**, and **Deep Learning**, focusing on **Computer Vision** to make a positive impact on **Healthcare**.
 
 One of my recent projects, [cytology-codex](https://github.com/isi-mube/cytology-codex) gained recognition in **Ironhack Hackshows** (2023, September) & during the **European Congress of Cytology** in Budapest (2023, October), where it also got **published** in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 
