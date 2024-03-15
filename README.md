@@ -30,6 +30,15 @@ Also;
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
+
+📚 PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image.
+🥽 Computer Vision: [Multi-Classification](https://github.com/isi-mube/cytology-codex), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Hand), [Binary-Classification](https://github.com/isi-mube/cosmic-compendium), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Handm), Unsupervised Learning
+💻 Machine Learning & Deep Learning.
+📊 Inferential & Descriptive Statistics.
+📤 Data Extraction with SQL, APIs, Web Scraping.
+📝 Data Visualization with Tableau, Plotly, Seaborn, Matplotlib.
+
+
 ## Projects
 
 ### 🥽 Computer Vision - Deep Learning
