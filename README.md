@@ -14,7 +14,7 @@
     </a>
 </p>
 
-**Data Scientist** [@Universal DX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with a background in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as specialist). 
+**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with a background in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as specialist). 
 
 Mentoring future data professionals and implementing **AI models** for non-invasive multicancer diagnosis using **liquid biopsy** and cfDNA methylation to make a positive impact on **Healthcare**.
 
