@@ -14,52 +14,42 @@
     </a>
 </p>
 
-I am a **Data Scientist** and **Educator** with a background in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as specialist). Currently working as **Data Science Lead Teacher**, mentoring future data professionals in [Ironhack](https://www.ironhack.com/us) and focusing on **Computer Vision** to make a positive impact on **Healthcare**.
+**Data Scientist** [@Universal DX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with a background in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as specialist). 
 
-One of my recent projects, [cytology-codex](https://github.com/isi-mube/cytology-codex) gained recognition and was showcased in **Ironhack Hackshows** (2023, September) & during the **European Congress of Cytology** in Budapest (2023, October), where it also got **published** in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
+Mentoring future data professionals and implementing **AI models** for non-invasive multicancer diagnosis using **liquid biopsy** and cfDNA methylation to make a positive impact on **Healthcare**.
 
 Also;
 
-- Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
-- Presented at regional, national, and international conferences.
-- Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
-- Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
-- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), lifelong learning, fruit & books.
+- In 2023, [Cytology Codex](https://github.com/isi-mube/cytology-codex) was showcased in **Ironhack Hackshows** & the **European Congress of Cytology** and **published** in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
+- Published 11+ **research articles**, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
+- **Presented** at regional, national, and international conferences.
+- **Secretary** of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
+- Past **board member** of the [Spanish Society of Cytology](https://secitologia.org/).
+- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), **lifelong learning**, fruit & books.
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-
-📚 PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image.
-🥽 Computer Vision: [Multi-Classification](https://github.com/isi-mube/cytology-codex), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Hand), [Binary-Classification](https://github.com/isi-mube/cosmic-compendium), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Handm), Unsupervised Learning
-💻 Machine Learning & Deep Learning.
-📊 Inferential & Descriptive Statistics.
-📤 Data Extraction with SQL, APIs, Web Scraping.
-📝 Data Visualization with Tableau, Plotly, Seaborn, Matplotlib.
-
-
-## Projects
-
-### 🥽 Computer Vision - Deep Learning
-| Project Type | Project Name | Description | Libraries | Link |
-| ------------ | ------------ | ----------- | ---------------- | ---- |
-| Binary Classification | cosmic-compendium | Image binary classification to recognize galaxies. TensorFlow & Keras practice. | TensorFlow, Keras | [View](https://github.com/isi-mube/cosmic-compendium) |
-| Multi-Class Classification | cytology-codex | Diagnose diverse Cytology samples using medical imaging data. Ironhack's final-bootcamp project. | TensorFlow, Keras | [View](https://github.com/isi-mube/cytology-codex) |
-| Image Segmentation | Tech-Test-ML-Hand | Image hand segmentation using Keras; AItaca tech-test. | TensorFlow, Keras | [View](https://github.com/isi-mube/Tech-Test-ML-Hand) |
-
-### 💻 Machine Learning
-| Project Type | Project Name | Description | Models | Link |
-| ------------ | ------------ | ----------- | ---------------- | ---- |
-| Regression | mbappe-project | Identifying young soccer players with potential to become the next Kylian Mbappé. Linear Regression practice. | Various, ElasticNet (final) | [View](https://github.com/isi-mube/mbappe-project) |
-| Regression | patent-pending | Predicting selling house prices based on historical data. Ironhack's mid-bootcamp project. | Various, RandomForestRegressor (final) | [View](https://github.com/isi-mube/patent-pending) |
-| Classification | movie-rent-predictor | Predicting movie rental based on historical data. Logistic Regression practice. | LogisticRegression | [View](https://github.com/isi-mube/movie-rent-predictor) |
-
-### 📚 Random Repos
-| Project Type | Project Name | Description | Libraries/Models | Link |
-| ------------ | ------------ | ----------- | ---------------- | ---- |
-| Miscellaneous | tailor-s-drawer | A messy repo with useful functions, libraries, templates, guides... | Various | [View](https://github.com/isi-mube/tailor-s-drawer) |
-| Coursework | iron-labs | Data analytics assignments and side projects storage. | Various | [View](https://github.com/isi-mube/iron-labs) |
-
-
-<p align="center">Let's <a href="https://www.linkedin.com/in/isi-mube/">connect</a> & collaborate! :handshake: </p>
+<p>
+  <strong>📚 Libraries:</strong><br>
+  PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image.
+</p>
+<p>
+  <strong>🤖 Deep Learning with Computer Vision:</strong><br>
+  <a href="https://github.com/isi-mube/cytology-codex">Multi-Classification</a>, 
+  <a href="https://github.com/isi-mube/Tech-Test-ML-Hand">Segmentation</a>, 
+  <a href="https://github.com/isi-mube/cosmic-compendium">Binary-Classification</a>, 
+  Unsupervised Learning.
+</p>
+<p>
+  <strong>💻 Machine Learning:</strong><br>
+  <a href="https://github.com/isi-mube/patent-pending">Regression</a>, 
+  <a href="https://github.com/isi-mube/movie-rent-predictor">Classification</a>, 
+  Unsupervised Learning.
+</p>
+<p>
+  <strong>📂 Miscellaneous:</strong><br>
+  <a href="https://github.com/isi-mube/tailor-s-drawer">Tailor's Drawer</a> - Utilities, functions, and guides.<br>
+  <a href="https://github.com/isi-mube/iron-labs">Iron Labs</a> - Solved data analytics assignments and side projects.
+</p>
