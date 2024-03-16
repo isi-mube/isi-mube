@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee">
     </a>
     <a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran">
-        <img src="https://img.shields.io/badge/research-gate-%230077B5.svg?&style=for-the-badge&logo=research-gate&logoColor=white">
+        <img src="https://img.shields.io/badge/-ResearchGate-%2300FFFF?style=for-the-badge">
     </a>
 </p>
 
@@ -35,5 +35,5 @@ Also;
 **📂 Popular Repositories:**
 - **🤖 Deep Learning with Computer Vision:** [Binary Classification](https://github.com/isi-mube/cosmic-compendium), [Multiclass Classification](https://github.com/isi-mube/cytology-codex), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Hand).
 - **💻 Machine Learning:** [Regression](https://github.com/isi-mube/patent-pending), [Classification](https://github.com/isi-mube/movie-rent-predictor).
-- 🔧 [**Tailor's Drawer**]() - Utilities, functions, and guides.
+- 🔧 [**Tailor's Drawer**](https://github.com/isi-mube/tailor-s-drawer) - Utilities, functions, and guides.
 - 🧪 [**Iron Labs**](https://github.com/isi-mube/iron-labs) - Solved data analytics assignments and side projects.
