@@ -19,7 +19,7 @@ Mentoring future data professionals and building **AI models** for non-invasive 
 
 Also;
 
-- Showcased, [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
+- Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
 - Presented at regional, national, and international conferences.
 - Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
