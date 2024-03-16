@@ -30,7 +30,7 @@ Also;
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-📚 **PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image.**
+📚 **PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image**
     
 **📂 Popular Repositories:**
 - **🤖 Deep Learning with Computer Vision:**[Binary Classification](https://github.com/isi-mube/cosmic-compendium), [Multiclass Classification](https://github.com/isi-mube/cytology-codex), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Hand).
