@@ -15,7 +15,7 @@
 
 **Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with a background in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as specialist). 
 
-Working on **AI models** for non-invasive multicancer diagnosis using liquid biopsy and cfDNA methylation to make a positive impact on **Healthcare** and mentoring future data professionals
+Working on **AI models** for non-invasive multicancer diagnosis using liquid biopsy and cfDNA methylation to make a positive impact on **Healthcare** and mentoring future data professionals.
 
 Also;
 
