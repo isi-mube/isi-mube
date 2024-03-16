@@ -1,5 +1,4 @@
 <p align="center">
-<p align="center">
     <a href="https://www.linkedin.com/in/isi-mube/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>  
@@ -16,11 +15,11 @@
 
 **Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with a background in **Cytology** (as cytotechnologist), **Education** (as professor and advocate) & **Digital Pathology** (as specialist). 
 
-Mentoring future data professionals and implementing **AI models** for non-invasive multicancer diagnosis using **liquid biopsy** and cfDNA methylation to make a positive impact on **Healthcare**.
+Working on **AI models** for non-invasive multicancer diagnosis using liquid biopsy and cfDNA methylation to make a positive impact on **Healthcare** and mentoring future data professionals
 
 Also;
 
-- In 2023, [Cytology Codex](https://github.com/isi-mube/cytology-codex) was showcased in Ironhack Hackshows & the European Congress of Cytology and published in [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
+- Showcased, [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
 - Presented at regional, national, and international conferences.
 - Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
@@ -31,25 +30,10 @@ Also;
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 
-<p>
-  <strong>📚 Libraries:</strong><br>
-  PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image.
-</p>
-<p>
-  <strong>🤖 Deep Learning with Computer Vision:</strong><br>
-  <a href="https://github.com/isi-mube/cytology-codex">Multi-Classification</a>, 
-  <a href="https://github.com/isi-mube/Tech-Test-ML-Hand">Segmentation</a>, 
-  <a href="https://github.com/isi-mube/cosmic-compendium">Binary-Classification</a>, 
-  Unsupervised Learning.
-</p>
-<p>
-  <strong>💻 Machine Learning:</strong><br>
-  <a href="https://github.com/isi-mube/patent-pending">Regression</a>, 
-  <a href="https://github.com/isi-mube/movie-rent-predictor">Classification</a>, 
-  Unsupervised Learning.
-</p>
-<p>
-  <strong>📂 Miscellaneous:</strong><br>
-  <a href="https://github.com/isi-mube/tailor-s-drawer">Tailor's Drawer</a> - Utilities, functions, and guides.<br>
-  <a href="https://github.com/isi-mube/iron-labs">Iron Labs</a> - Solved data analytics assignments and side projects.
-</p>
+📚 **PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image.**
+    
+**📂 Popular Repositories:**
+- **🤖 Deep Learning with Computer Vision:**[Binary Classification](https://github.com/isi-mube/cosmic-compendium), [Multiclass Classification](https://github.com/isi-mube/cytology-codex), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Hand)
+- **💻 Machine Learning:** [Regression](https://github.com/isi-mube/patent-pending), [Classification](https://github.com/isi-mube/movie-rent-predictor)
+- 🔧 [**Tailor's Drawer**]() - Utilities, functions, and guides.
+- 🧪 [**Iron Labs**](https://github.com/isi-mube/iron-labs) - Solved data analytics assignments and side projects.
