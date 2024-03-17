@@ -13,7 +13,7 @@
     </a>
 </p>
 
-**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with a background in **Cytology**, Education, **Digital Pathology**. 
+**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with a background in **Cytology**, Education & **Digital Pathology**. 
 
 Mentoring future data professionals and building **AI models** for non-invasive multicancer diagnosis using liquid biopsy and **cfDNA** to make a positive impact on **Healthcare**.
 
