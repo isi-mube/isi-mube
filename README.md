@@ -13,7 +13,7 @@
     </a>
 </p>
 
-**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) passionate about the intersection of **AI**, **Healthcare**, and **cancer research** with an interdisciplinary background in **Cytopathology**, **Bioinformatics**, **Statistics**, and **Psychology**.
+**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) passionate about the intersection of **AI**, **Healthcare**, and **cancer research** with a background in **Cytopathology**, **Bioinformatics**, **Statistics**, and **Psychology**.
 
 Currently working in the development of an early-stage cancer detection test using Machine Learning and Statistic analysis and mentoring future data professionals.
 
