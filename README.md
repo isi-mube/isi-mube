@@ -13,13 +13,14 @@
     </a>
 </p>
 
-**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) with background in **Cytology**, **Education** & **Digital Pathology**. 
+**Data Scientist** and **Educator** passionate about the intersection of **AI**, **Healthcare**, and **cancer research** with an interdisciplinary background in **Cytopathology**, **Bioinformatics**, **Statistics**, and **Psychology**.
 
-Mentoring future data professionals and building **AI models** for non-invasive multicancer diagnosis using liquid biopsy and **cfDNA** to make a positive impact on **Healthcare**.
+Currently working at [@UniversalDX](https://www.universaldx.com/), developing early-stage cancer detection tests and mentoring future data professionals at [@Ironhack](https://www.ironhack.com/us).
 
 - Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
-- Teached in a Digital Health Cathedra at the University of Barcelona.
+- Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
+- Taught in a Digital Healthcare Cathedra at the [University of Barcelona](https://web.ub.edu/en/web/ub/).
 - Presented at regional, national, and international scientific conferences.
 - Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 - Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
