@@ -13,9 +13,9 @@
     </a>
 </p>
 
-**Data Scientist** and **Educator** passionate about the intersection of **AI**, **Healthcare**, and **cancer research** with an interdisciplinary background in **Cytopathology**, **Bioinformatics**, **Statistics**, and **Psychology**.
+**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) passionate about the intersection of **AI**, **Healthcare**, and **cancer research** with an interdisciplinary background in **Cytopathology**, **Bioinformatics**, **Statistics**, and **Psychology**.
 
-Currently working at [@UniversalDX](https://www.universaldx.com/), developing early-stage cancer detection tests and mentoring future data professionals at [@Ironhack](https://www.ironhack.com/us).
+Currently working in the development of an early-stage cancer detection tests and mentoring future data professionals.
 
 - Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
