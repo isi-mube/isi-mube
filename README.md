@@ -13,15 +13,12 @@
     </a>
 </p>
 
-**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) passionate about the intersection of **AI**, **Healthcare**, and **cancer research** with a background in **Cytopathology**, **Bioinformatics**, **Statistics**, and **Psychology**.
-
-Currently working in the development of an early-stage cancer detection test using Machine Learning and Statistic analysis and mentoring future data professionals.
+**Data Scientist** [@UniversalDX](https://www.universaldx.com/) and **Data Lead Teacher** [@Ironhack](https://www.ironhack.com/us) at the intersection of **AI**, **Healthcare**, and **cancer research**, with a background in **Data Science**, **Cytopathology**, and **Psychology**. I am currently involved in the development of a liquid biopsy-based diagnostic test for early cancer detection, mentoring future data professionals, and performing as the Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) implementation.
-- Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Taught in a Digital Healthcare Cathedra at the [University of Barcelona](https://web.ub.edu/en/web/ub/).
+- Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Presented at regional, national, and international scientific conferences.
-- Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 - Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
 - In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), lifelong learning, fruit & books.
 
