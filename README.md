@@ -17,7 +17,7 @@
 
 - Published 11+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) & [Cytopathology](https://www.eurocytology.eu/course/digital-cytopathology-and-artificial-intelligence/) implementation.
 - Taught in a Digital Healthcare Cathedra at the [University of Barcelona](https://web.ub.edu/en/web/ub/).
-- Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
+- Showcased [Cytology Codex](https://github.com/isi-mube/cytology-codex)  in Ironhack Hackshows and during the European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Presented at regional, national, and international scientific conferences.
 - Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
 - In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), lifelong learning, fruit & books.
