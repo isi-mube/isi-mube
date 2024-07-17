@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋</h1>
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTEwbWo2M2ZjcXZ4bGxmamJtZ3Q5MXc1amM3NW83eDFvNjV3MTU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Funny GIF" style="width: 50%;">
+</p>
+<p align="center">
+
 <p align="center">
     <a href="https://www.linkedin.com/in/isi-mube/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
@@ -22,9 +28,7 @@
 - Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
 - In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), lifelong learning, fruit & books.
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
-
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+---------------------------------------------
 
 📚 **PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Scikit-image**
     
