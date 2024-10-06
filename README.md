@@ -29,10 +29,4 @@
 
 ---------------------------------------------
 
-📚 **PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Pandas, Numpy, OpenCV, Os, Pysam Scikit-image**
-    
-**📂 Popular Repositories:**
-- **🤖 Deep Learning with Computer Vision:** [Binary Classification](https://github.com/isi-mube/cosmic-compendium), [Multiclass Classification](https://github.com/isi-mube/cytology-codex), [Segmentation](https://github.com/isi-mube/Tech-Test-ML-Hand).
-- **💻 Machine Learning:** [Regression](https://github.com/isi-mube/patent-pending), [Classification](https://github.com/isi-mube/movie-rent-predictor).
-- 🔧 [**Tailor's Drawer**](https://github.com/isi-mube/tailor-s-drawer) - Utilities, functions, and guides.
-- 🧪 [**Iron Labs**](https://github.com/isi-mube/iron-labs) - Solved data analytics assignments and side projects.
+📚 **PyTorch, Keras, TensorFlow, Scikit-learn, Streamlit, Kivy, Pandas, Numpy, OpenCV, Os, Pysam, Scikit-image**
