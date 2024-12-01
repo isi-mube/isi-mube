@@ -19,7 +19,7 @@
     </a>
 </p>
 
-**Data Scientist** and **Educator** at the intersection of **AI**, **Healthcare**, and **Education**, with a background in **Data Science**, **Analytics**, **Cytopathology**, and **Psychology**. I currently do cancer research, mentor future data professionals, teach in an AI Master for medical imaging, and serve as the Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
+**Data Scientist** and **Educator** at the intersection of **AI**, **Healthcare**, and **Education**, with a background in **Data Science**, **Analytics**, **Cytopathology**, and **Psychology**. I mentor future data professionals, teach in an AI Master for medical imaging, and serve as the Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 
 - Published 12+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) & [Cytopathology](https://www.eurocytology.eu/course/digital-cytopathology-and-artificial-intelligence/) implementation.
 - Showcased [Digital-Cytology-ML](https://github.com/isi-mube/Digital-Cytology-ML)  in IH Hackshows and during the European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
