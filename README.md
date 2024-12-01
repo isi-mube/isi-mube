@@ -25,7 +25,7 @@
 - Showcased [Digital-Cytology-ML](https://github.com/isi-mube/Digital-Cytology-ML)  in IH Hackshows and during the European Congress of Cytology & published it on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1).
 - Presented at regional, national, and international scientific conferences.
 - Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
-- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), lifelong learning, fruit & books.
+- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), lifelong learning, nature fruit & books.
 
 ---------------------------------------------
 
