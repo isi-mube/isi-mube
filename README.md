@@ -11,9 +11,6 @@
     <a href="https://medium.com/@ap.isidre">
         <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
     </a>
-    <a href="https://twitter.com/isi_mube">
-        <img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee">
-    </a>
     <a href="https://www.researchgate.net/profile/Isidre_Munne-Bertran">
         <img src="https://img.shields.io/badge/-ResearchGate-%2300FFFF?style=for-the-badge">
     </a>
