@@ -16,13 +16,11 @@
     </a>
 </p>
 
-**Data Scientist** and **Educator** at the intersection of **AI**, **Healthcare**, and **Education**, with a background in **Data Science**, **Analytics**, **Cytopathology**, and **Psychology**. I mentor future data professionals, teach in an AI Master for medical imaging, and serve as the Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
+**Data Scientist** and **educator** specializing in **AI**, **healthcare**, and **education**, with expertise in data science, **machine learning**, and **digital pathology**. Researcher with 12+ peer-reviewed publications as both author and co-author.
 
-- Published 12+ research articles, including [AI](https://www.nature.com/articles/s41379-022-01147-y) and guidelines for [Digital Pathology](https://books.google.es/books/about/Gu%C3%ADa_de_Calidad_en_Citopatolog%C3%ADa.html?id=CBzsDwAAQBAJ&redir_esc=y) & [Cytopathology](https://www.eurocytology.eu/course/digital-cytopathology-and-artificial-intelligence/) implementation.
-- Published [Digital-Cytology-ML](https://github.com/isi-mube/Digital-Cytology-ML) on [Cytopathology Journal](https://onlinelibrary.wiley.com/toc/13652303/2023/34/S1) and presented it during the European Congress of Cytology.
-- Presented at regional, national, and international scientific conferences.
-- Past board member of the [Spanish Society of Cytology](https://secitologia.org/).
-- In love with [calisthenics](https://en.wikipedia.org/wiki/Calisthenics), lifelong learning, animals, fruit & books.
+Currently Curriculum Manager & Engineer at Ironhack and Lead Teacher in Data Science & Machine Learning. Also a university lecturer in AI for medical imaging (UB) and Big Data (Next International Business School), as well as Co-chair of the QUATE Educational Committee and Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
+
+I like calisthenics, lifelong learning, animals, fruits, books & coffee =)
 
 ---------------------------------------------
 
