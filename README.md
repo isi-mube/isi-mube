@@ -18,7 +18,7 @@
 
 **Data Scientist** and **educator** specializing in **AI**, **healthcare**, and **education**, with expertise in data science, **machine learning**, and **digital pathology**. Researcher with 12+ peer-reviewed publications as both author and co-author.
 
-Currently Curriculum Engineer at Ironhack and Lead Teacher in Data Science & Machine Learning. Also a university lecturer in AI for medical imaging ([UB](https://web.ub.edu/es/)) and Big Data ([Next IBS](https://www.nextibs.com/)), as well as Co-chair of the QUATE Educational Committee and Secretary of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
+Currently **Curriculum Engineer** and **Lead Teacher** in Data Science & Machine Learning at [Ironhack](https://www.ironhack.com/). Also, **university lecturer** in two master’s programs: AI for medical imaging ([UB](https://web.ub.edu/es/)) and Big Data ([Next IBS](https://www.nextibs.com/)). **Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee and **Secretary** of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 
 I like calisthenics, lifelong learning, animals, fruits, books & coffee =)
 
