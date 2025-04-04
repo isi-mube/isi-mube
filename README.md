@@ -24,18 +24,17 @@ I like calisthenics, lifelong learning, animals, fruits, books & coffee =)
 
 ---------------------------------------------
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 25px;">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" style="height: 25px;">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 25px;">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" style="height: 25px;">
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="Numpy" style="height: 25px;">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" style="height: 25px;">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" style="height: 25px;">
-</p>
+[![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python&logoColor=3776AB)](#)
+[![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&logo=postgresql&logoColor=4169E1)](#)
+[![HTML](https://img.shields.io/badge/-HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26)](#)
+[![CSS](https://img.shields.io/badge/-CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript&logoColor=F7DF1E)](#)
+
+[![PyTorch](https://img.shields.io/badge/-PyTorch-ffffff?style=flat&logo=pytorch&logoColor=EE4C2C)](#)
+[![Keras](https://img.shields.io/badge/-Keras-ffffff?style=flat&logo=keras&logoColor=D00000)](#)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-ffffff?style=flat&logo=tensorflow&logoColor=FF6F00)](#)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-ffffff?style=flat&logo=scikit-learn&logoColor=F7931E)](#)
+[![NumPy](https://img.shields.io/badge/-NumPy-ffffff?style=flat&logo=numpy&logoColor=013243)](#)
+[![Pandas](https://img.shields.io/badge/-Pandas-ffffff?style=flat&logo=pandas&logoColor=150458)](#)
+[![Streamlit](https://img.shields.io/badge/-Streamlit-ffffff?style=flat&logo=streamlit&logoColor=FF4B4B)](#)
