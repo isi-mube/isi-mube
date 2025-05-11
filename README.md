@@ -16,15 +16,11 @@
     </a>
 </p>
 
-**Data Scientist** and **educator** specializing in **AI**, **healthcare**, and **education**, with expertise in data science, **machine learning**, and **digital pathology**. Researcher with 12+ peer-reviewed publications as both author and co-author.
+I'm a **Data Scientist** and  **educator** passionate about **AI**, **healthcare**, and **education**. I lecture in two master’s programs — **AI for Medical Imaging** at the [University of Barcelona](https://web.ub.edu/es/) and **Big Data & Cloud** at [Next International Business School](https://www.nextibs.com/). I’m also an active **researcher** with over 12 peer-reviewed publications, particularly in digital pathology and applied machine learning.
 
-**University lecturer** in two master’s programs: 
-- AI for medical imaging ([UB](https://web.ub.edu/es/))
-- Big Data and Cloud ([Next IBS](https://www.nextibs.com/)).
+Within academia, I serve as **Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee and **Secretary** of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
 
-**Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee and **Secretary** of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
-
-I like calisthenics, lifelong learning, animals, fruits, books & coffee =)
+I like calisthenics, lifelong learning, animals, fruits, books & coffee =) ☕🐾📚
 
 ---------------------------------------------
 
