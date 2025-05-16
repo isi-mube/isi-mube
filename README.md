@@ -16,9 +16,15 @@
     </a>
 </p>
 
-I'm a **Data Scientist** and  **educator** passionate about **AI**, **healthcare**, and **education**. I lecture in two master’s programs — **AI for Medical Imaging** at the [University of Barcelona](https://web.ub.edu/es/) and **Big Data & Cloud** at [Next International Business School](https://www.nextibs.com/). I’m also an active **researcher** with over 12 peer-reviewed publications, particularly in digital pathology and applied machine learning.
+I'm a **Data Scientist** specializing in **Data Science**, **Machine Learning**, and **AI applications in healthcare**, with a focus on **medical imaging** and **cytology**. I’m a **researcher** with 12+ peer-reviewed publications as both author and co-author, actively contributing to clinical innovation and education through technology.
 
-Within academia, I serve as **Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee and **Secretary** of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/).
+I currently lecture in two master’s programs:  
+- **AI for Medical Imaging** at the [University of Barcelona](https://web.ub.edu/es/)  
+- **Big Data & Cloud Computing** at [Next International Business School](https://www.nextibs.com/)
+
+I also serve within the [European Federation of Cytology Societies (EFCS)](https://www.efcs.eu/) as:  
+- **Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee  
+- **Secretary** of the [European Advisory Committee of Cytotechnology](https://www.efcs.eu/links/eacc-advisory-commitee/)
 
 I like calisthenics, lifelong learning, animals, fruits, books & coffee =) ☕🐾📚
 
