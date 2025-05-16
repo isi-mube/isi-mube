@@ -16,7 +16,7 @@
     </a>
 </p>
 
-I'm a **Data Scientist** specializing in **Data Science**, **Machine Learning**, and **AI applications in healthcare**, with a focus on **medical imaging** and **cytology**. I’m a **researcher** with 12+ peer-reviewed publications as both author and co-author, actively contributing to clinical innovation and education through technology.
+I'm a **Data Scientist** specializing in **Data Science**, **Machine Learning**, and **AI applications in healthcare**, with a focus on **medical imaging** and **cytology**. **Researcher** with 12+ peer-reviewed publications as both author and co-author, actively contributing to clinical innovation and education through technology.
 
 I currently lecture in two master’s programs:  
 - **AI for Medical Imaging** at the [University of Barcelona](https://web.ub.edu/es/)  
