@@ -18,9 +18,9 @@
 
 I'm a **Data Scientist** specializing in **Data Science**, **Machine Learning**, and **AI applications in healthcare**, with a focus on **medical imaging** and **cytology**. **Researcher** with 12+ peer-reviewed publications as both author and co-author.
 
-I currently lecture in two master’s programs:  
-- **AI for Medical Imaging** at the [University of Barcelona](https://web.ub.edu/es/)  
-- **Big Data & Cloud Computing** at [Next International Business School](https://www.nextibs.com/)
+Currently:
+- Working as Clinical **Data Scientist** at [Datexim](https://datexim.ai/), a company specialized in medical image processing, analysis, and visualization.
+- Teaching in two master’s programs: **AI for Medical Imaging** at the [University of Barcelona](https://web.ub.edu/es/) and **Big Data & Cloud Computing** at [Next International Business School](https://www.nextibs.com/)
 
 I also serve within the [European Federation of Cytology Societies (EFCS)](https://www.efcs.eu/) as:  
 - **Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee  
