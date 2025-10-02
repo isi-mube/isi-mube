@@ -16,7 +16,8 @@
     </a>
 </p>
 
-I'm a **Data Scientist** specializing in **Data Science**, **Machine Learning**, and **AI applications in healthcare**, with a focus on **medical imaging** and **cytology**. Currently working as Clinical **Data Scientist** at [Datexim](https://datexim.ai/), a company specialized in medical image processing.
+**Scientist** at the intersection of AI, medical imaging, cytology and education. Currently working as Clinical **Data Scientist** at [Datexim](https://datexim.ai/), a company specialized in medical image processing and cancer detection.
+
 
 I also serve within the [European Federation of Cytology Societies (EFCS)](https://www.efcs.eu/) as:  
 - **Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee  
