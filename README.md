@@ -16,8 +16,7 @@
     </a>
 </p>
 
-**Scientist** at the intersection of AI, medical imaging, cytology and education. Currently working as Clinical **Data Scientist** at [Datexim](https://datexim.ai/), a company specialized in medical image processing and cancer detection.
-
+At the intersection of AI, healthcare, and education. Currently working as Clinical **Data Scientist** at [Datexim](https://datexim.ai/), a company specialized in medical image processing and cancer detection.
 
 I also serve within the [European Federation of Cytology Societies (EFCS)](https://www.efcs.eu/) as:  
 - **Co-chair** of the [QUATE](https://www.efcs.eu/quate-introduction/) Educational Committee  
